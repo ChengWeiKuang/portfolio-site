@@ -1,7 +1,7 @@
-# Referenced from Shawhin's video
+# Referenced from Shawhin's video: https://www.youtube.com/watch?v=D9CLhQdLp8w
 
 title: Cheng Wei Kuang
 #logo: /assets/img/headshot_circle.png
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
