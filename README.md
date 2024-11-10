@@ -41,22 +41,25 @@
 ---
 
 ### Certificates
-- [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/en-us/users/weikuangcheng-1595/credentials/5663f4bcb41340f7) | _Aug 2024_  
-- [**Microsoft Certified: Power Platform Fundamentals**](https://learn.microsoft.com/en-us/users/weikuangcheng-1595/credentials/586d0210e32c5d11) | _Apr 2024_  
-- [**DeepLearning.AI TensorFlow Developer Professional Certificate**](https://coursera.org/verify/professional-cert/CWF9RB737FSX) @ Coursera | _Dec 2023_
-- [**Google Data Analytics Professional Certificate**](https://www.credly.com/badges/7a3873a3-c5fa-4e38-8244-db3d5ce65122https://www.credly.com/badges/7a3873a3-c5fa-4e38-8244-db3d5ce65122) @ Coursera | _Jan 2022_
+* [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/en-us/users/weikuangcheng-1595/credentials/5663f4bcb41340f7) | _Aug 2024_  
+* [**Microsoft Certified: Power Platform Fundamentals**](https://learn.microsoft.com/en-us/users/weikuangcheng-1595/credentials/586d0210e32c5d11) | _Apr 2024_  
+* [**DeepLearning.AI TensorFlow Developer Professional Certificate**](https://coursera.org/verify/professional-cert/CWF9RB737FSX) @ Coursera | _Dec 2023_
+* [**Google Data Analytics Professional Certificate**](https://www.credly.com/badges/7a3873a3-c5fa-4e38-8244-db3d5ce65122https://www.credly.com/badges/7a3873a3-c5fa-4e38-8244-db3d5ce65122) @ Coursera | _Jan 2022_
 
+---
 
 ### Publication 
 L. M. Choong and W. K. Cheng, "Machine Learning in Failure Analysis of Optical Transceiver Manufacturing Process", 2021 International Conference on Computer & Information Sciences (ICCOINS), pp. 160-162, 2021.  
 [**Publication link**](https://doi.org/10.1109/ICCOINS49721.2021.9497134)
 
+---
 
 ### Education
 **Bachelor of Science (Hons) Statistical Computing and Operations Research**  
 - Universiti Tunku Abdul Rahman (UTAR)
 - Jan 2015 - Dec 2017  
 
+---
 
 ### Contacts
 - **Email**: chengweikuang@live.com.my
