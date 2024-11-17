@@ -16,6 +16,13 @@
 - **Skills Involved**: Data Processing, Data Visualization (Power BI).  
 - [**Project Link**](https://github.com/ChengWeiKuang/DataAnalytics/tree/main/Production%20Data%20Processing%20and%20Dashboard)  
 
+**Web Scraper - eCommerce Site**
+- **Summary**: This is just a simple web scraper created to extract information from a "dummy" eCommerce website, in which there is no way to download the data directly, and there is no publicly available API for it. Similar tools can be created for competitor intelligence purpose, so that a company can utilize some publicly available information to understand more about their competitor's business and performance.   
+- **Dataset**: Scraped from the [Test Site](https://webscraper.io/test-sites/e-commerce/ajax).  
+- **Tools Used**: Python.  
+- **Skills Used**: Web Scraping (Selenium).  
+- [**Project Link**](https://github.com/ChengWeiKuang/DataAnalytics/tree/main/Web%20Scraper%20-%20eCommerce%20Site)  
+
 ---
 
 ### Work Experiences
