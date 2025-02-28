@@ -56,8 +56,11 @@
 ---
 
 ### Publication 
-L. M. Choong and W. K. Cheng, "Machine Learning in Failure Analysis of Optical Transceiver Manufacturing Process", 2021 International Conference on Computer & Information Sciences (ICCOINS), pp. 160-162, 2021.  
-[**Publication link**](https://doi.org/10.1109/ICCOINS49721.2021.9497134)
+L. M. Choong and W. K. Cheng, "Advanced Data Analytics and Supervised Machine Learning in Optics Engineering Analysis," 2021 International Conference on Computer & Information Sciences (ICCOINS), Kuching, Malaysia, 2021, pp. 157-159  
+[**Publication link**](https://doi.org/10.1109/ICCOINS49721.2021.9497207)  
+
+L. M. Choong and W. K. Cheng, "Machine Learning in Failure Analysis of Optical Transceiver Manufacturing Process," 2021 International Conference on Computer & Information Sciences (ICCOINS), Kuching, Malaysia, 2021, pp. 160-162  
+[**Publication link**](https://doi.org/10.1109/ICCOINS49721.2021.9497134)  
 
 ---
 
