@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects | Wei Kuang's Portfolio</title>
+	
+    <link href="bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="styles.css">
+	<!--link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous"-->
+</head>
+
+<body>
+    <div class="container">
+	<!-- Header - title & navigation bar -->
+		<header>
+			<div class="row" id="header">
+				<div class="col">
+					<div class="text-center">
+						<!--img src="logo.png" class="img-fluid"-->
+						<h1>Wei Kuang's Portfolio</h1>
+					</div>
+				</div>
+			</div>
+			<div class="row" id="navbar">
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="about_me.html">About Me</a></li>
+						<li><a href="projects.html">Projects</a></li>
+						<li><a href="publications.html">Publications</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		
+		<!-- Main - content of the page -->
+		<main>
+			<div class="row">
+				<div class="col">
+					<div class="text-center">
+						<h2>Projects</h2>
+						<hr style="border:1px dashed"/>
+					</div>
+				</div>
+			</div>
+			
+			<!-- First some opening text -->
+			<div class="row">
+				<div class="col cust-article">
+					<div class="text-center">
+						<p>Here are some projects that I have created during my free time. On top of showcasing my skills, this also serves as a record of what I have done before and how I wrote the code to perform some of the tasks.</p>
+						<p>I find it fun to learn and explore new ways of getting and analyzing different kinds of data, and therefore, I may work on a new project and add the files into my GitHub repository from time to time.</p>
+						
+						<a href="https://github.com/ChengWeiKuang/DataAnalytics" target="_blank" type="button" class="btn btn-primary">Visit my GitHub repository</a>
+					</div>
+				</div>
+			</div>
+			
+			<hr style="border:1px dashed"/>
+			
+			<!-- Data-Related Projects (for now no other category) -->
+			<div class="row">
+				<div class="col">
+					<div class="text-left">
+						<h5>Data-Related Projects</h5>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row cust-article">
+				<div class="col">
+					<div class="text-left">
+						<p>1. <b>Machine Predictive Maintenance Classification</b></p>
+						<ul>
+							<li><b>Summary</b>: This project aims to create a predictive model for predictive maintenance for a milling machine based on its historical data. Here, data exploration is first done to understand more about the dataset, as well as getting some preliminary insights on the factors that causes the machine failures to occur. Then, various machine learning and deep learning models are built, in an attempt to find out a model that can perform the prediction with the best performance. By the end of the project, one of the models is able to perform the prediction with an accuracy of 98.33% and an F1-score of 71.49%.</li>
+							<li><b>Dataset</b>: Synthetic dataset obtained from <a href="https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020" target="_blank">Kaggle</a>.</li>
+							<li><b>Tools Used</b>: Python.</li>
+							<li><b>Skills Involved</b>: Data Visualization (Matplotlib, seaborn), Machine Learning (scikit-learn), Deep Learning (Tensorflow).</li>
+						</ul>
+						
+						<a href="https://github.com/ChengWeiKuang/DataAnalytics/tree/main/Machine%20Predictive%20Maintenance%20Classification" target="_blank" type="button" class="btn btn-primary">View Project in GitHub</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row cust-article">
+				<div class="col">
+					<div class="text-left">
+						<p>2. <b>Production Data Processing and Dashboard</b></p>
+						<ul>
+							<li><b>Summary</b>: This project is created as a simulated use case of how a manufacturing company can possibly create a dashboard to monitor the performance of their production line. As real-world data is usually confidential and difficult to obtain, some synthetic data is generated with Python instead. Then, assuming that the actual data is already available in an SQL database, an SQL script is used to process the raw data and updates the summary data in a few separate table in the same database. Finally, a dashboard is created with Power BI, for the engineers to analyze and monitor the performance of their products and test processes on the same platform.</li>
+							<li><b>Dataset</b>: Self-generated synthetic dataset.</li>
+							<li><b>Tools Used</b>: Python, SQL, Power BI.</li>
+							<li><b>Skills Involved</b>: Data Processing, Data Visualization (Power BI).</li>
+						</ul>
+						
+						<a href="https://github.com/ChengWeiKuang/DataAnalytics/tree/main/Production%20Data%20Processing%20and%20Dashboard" target="_blank" type="button" class="btn btn-primary">View Project in GitHub</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row cust-article">
+				<div class="col">
+					<div class="text-left">
+						<p>3. <b>Web Scraper - eCommerce Site</b></p>
+						<ul>
+							<li><b>Summary</b>: This is just a simple web scraper created to extract information from a “dummy” eCommerce website, in which there is no way to download the data directly, and there is no publicly available API for it. Similar tools can be created for competitor intelligence purpose, so that a company can utilize some publicly available information to understand more about their competitor’s business and performance.</li>
+							<li><b>Dataset</b>: Scraped from the <a href="https://webscraper.io/test-sites/e-commerce/ajax" target="_blank">Test Site</a>.</li>
+							<li><b>Tools Used</b>: Python.</li>
+							<li><b>Skills Involved</b>: Web Scraping (Selenium).</li>
+						</ul>
+						
+						<a href="https://github.com/ChengWeiKuang/DataAnalytics/tree/main/Web%20Scraper%20-%20eCommerce%20Site" target="_blank" type="button" class="btn btn-primary">View Project in GitHub</a>
+					</div>
+				</div>
+			</div>
+		</main>
+		
+		<!-- Footer - contact info -->
+		<footer>
+			<div class="row">
+				<div class="col">
+					<div class="text-left">
+						<p>Contact me at: </p>
+						<p>Email: <a href="mailto:chengweikuang@live.com.my" style="color:#45dede">chengweikuang@live.com.my</a></p>
+						<a href="https://www.linkedin.com/in/wei-kuang-cheng-805a78163/" target="_blank" style="color:#45dede">LinkedIn <img src="./img/linkedin.jpg" alt="LinkedIn" style="height:1lh;"></a> <br/>
+						<a href="https://github.com/ChengWeiKuang/DataAnalytics" target="_blank" style="color:#45dede">GitHub <img src="./img/github.png" alt="GitHub" style="height:1lh;background-color:white;"></a>
+					</div>
+				</div>
+			</div>
+		</footer>
+    </div>
+	
+    <script src="bootstrap.bundle.min.js"></script>
+	<!--script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script-->
+</body>
+</html>
